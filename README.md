@@ -1,8 +1,3 @@
-
-
-Git URL: https://github.com/bramhanayaghea/melanoma_detection_cnn.git
-
-
 # Skin Cancer Detection using Convolutional Neural Networks (CNN)
 
 ## Problem Statement
